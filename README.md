@@ -1,8 +1,5 @@
-# About this template
+# Fractal generator using p5.js
 
-This is a template for a sketch using the p5.js library in conjunction with Microsoft Typescript.
+Run `npm install` to install dependencies.
 
-## References
-
-[p5.js library](https://p5js.org/)
-[Typescript](https://www.typescriptlang.org/)
+Run `npm start` to start the development server.
